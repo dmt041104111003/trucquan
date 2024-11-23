@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DFE2DA0B-E1C7-4CCD-8A0A-7CA414BECF1D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CSharpCounterFinalProject</RootNamespace>
+    <AssemblyName>CSharpCounterFinalProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddEditBillFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEditBillFrm.Designer.cs">
+      <DependentUpon>AddEditBillFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEditCustomerFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEditCustomerFrm.Designer.cs">
+      <DependentUpon>AddEditCustomerFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEditDiscountFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEditDiscountFrm.Designer.cs">
+      <DependentUpon>AddEditDiscountFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEditItemFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEditItemFrm.Designer.cs">
+      <DependentUpon>AddEditItemFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChartPie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChartPie.Designer.cs">
+      <DependentUpon>ChartPie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChartTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChartTable.Designer.cs">
+      <DependentUpon>ChartTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\DanhSachSanPham.cs" />
+    <Compile Include="Classes\DataBaseProcess.cs" />
+    <Compile Include="Classes\Item.cs" />
+    <Compile Include="Classes\SanPham.cs" />
+    <Compile Include="Classes\SelectedItem.cs" />
+    <Compile Include="Classes\UserInfo.cs" />
+    <Compile Include="HomeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeFrm.Designer.cs">
+      <DependentUpon>HomeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentFrm.Designer.cs">
+      <DependentUpon>PaymentFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sign\SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign\SignIn.Designer.cs">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign\SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign\SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\CartCus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\CartCus.Designer.cs">
+      <DependentUpon>CartCus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\CustomerInformationView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\CustomerInformationView.Designer.cs">
+      <DependentUpon>CustomerInformationView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\DetailItemCus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\DetailItemCus.Designer.cs">
+      <DependentUpon>DetailItemCus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\EditNumberItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\EditNumberItems.Designer.cs">
+      <DependentUpon>EditNumberItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\HomeCustomerView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\HomeCustomerView.Designer.cs">
+      <DependentUpon>HomeCustomerView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\ListItemCus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\ListItemCus.Designer.cs">
+      <DependentUpon>ListItemCus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\ReceiptCusCus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign\ViewCustomer\ReceiptCusCus.Designer.cs">
+      <DependentUpon>ReceiptCusCus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewNguoiMua\ChiTietSanPhamView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewNguoiMua\ChiTietSanPhamView.Designer.cs">
+      <DependentUpon>ChiTietSanPhamView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewNguoiMua\GioHangView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewNguoiMua\GioHangView.Designer.cs">
+      <DependentUpon>GioHangView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewNguoiMua\HomeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewNguoiMua\HomeView.Designer.cs">
+      <DependentUpon>HomeView.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddEditBillFrm.resx">
+      <DependentUpon>AddEditBillFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEditCustomerFrm.resx">
+      <DependentUpon>AddEditCustomerFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEditDiscountFrm.resx">
+      <DependentUpon>AddEditDiscountFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEditItemFrm.resx">
+      <DependentUpon>AddEditItemFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartPie.resx">
+      <DependentUpon>ChartPie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTable.resx">
+      <DependentUpon>ChartTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeFrm.resx">
+      <DependentUpon>HomeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentFrm.resx">
+      <DependentUpon>PaymentFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign\SignIn.resx">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign\SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign\ViewCustomer\CartCus.resx">
+      <DependentUpon>CartCus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign\ViewCustomer\CustomerInformationView.resx">
+      <DependentUpon>CustomerInformationView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign\ViewCustomer\DetailItemCus.resx">
+      <DependentUpon>DetailItemCus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign\ViewCustomer\EditNumberItems.resx">
+      <DependentUpon>EditNumberItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign\ViewCustomer\HomeCustomerView.resx">
+      <DependentUpon>HomeCustomerView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign\ViewCustomer\ListItemCus.resx">
+      <DependentUpon>ListItemCus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign\ViewCustomer\ReceiptCusCus.resx">
+      <DependentUpon>ReceiptCusCus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewNguoiMua\ChiTietSanPhamView.resx">
+      <DependentUpon>ChiTietSanPhamView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewNguoiMua\GioHangView.resx">
+      <DependentUpon>GioHangView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewNguoiMua\HomeView.resx">
+      <DependentUpon>HomeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\CSharpCounterFinalProject.exe.config" />
+    <None Include="bin\Debug\pdf\1984.pdf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\AnhSP\1984.jpg" />
+    <Content Include="bin\Debug\AnhSP\anna_karenina.jpg" />
+    <Content Include="bin\Debug\AnhSP\ben_thang_cuoc.jpg" />
+    <Content Include="bin\Debug\AnhSP\chuyen_tinh_cua_thach_sanh.jpg" />
+    <Content Include="bin\Debug\AnhSP\hai_dua_tre.jpg" />
+    <Content Include="bin\Debug\AnhSP\khi_anh_sang_tat.jpg" />
+    <Content Include="bin\Debug\AnhSP\mat_troi_moc_phia_dong.jpg" />
+    <Content Include="bin\Debug\AnhSP\moi_quan_he_cua_toi_voi_ban.jpg" />
+    <Content Include="bin\Debug\AnhSP\moi_quan_he_la_gi.jpg" />
+    <Content Include="bin\Debug\AnhSP\muon_kiep_nhan_sinh.jpg" />
+    <Content Include="bin\Debug\AnhSP\nha_gia_kim.jpg" />
+    <Content Include="bin\Debug\AnhSP\nhung_con_chim_gian_du.jpg" />
+    <Content Include="bin\Debug\AnhSP\phan_dien.jpg" />
+    <Content Include="bin\Debug\AnhSP\shakespeare_kich_noi_tieng.jpg" />
+    <Content Include="bin\Debug\AnhSP\toi_thay_hoa_vang_tren_co_xanh.jpg" />
+    <Content Include="bin\Debug\AnhSP\tre_con_duong_dai.jpg" />
+    <Content Include="bin\Debug\AnhSP\ve_que.jpg" />
+    <Content Include="Images\1984.jpg" />
+    <Content Include="Images\anna_karenina.jpg" />
+    <Content Include="Images\ben_thang_cuoc.jpg" />
+    <Content Include="Images\chuyen_tinh_cua_thach_sanh.jpg" />
+    <Content Include="Images\hai_dua_tre.jpg" />
+    <Content Include="Images\khi_anh_sang_tat.jpg" />
+    <Content Include="Images\mat_troi_moc_phia_dong.jpg" />
+    <Content Include="Images\moi_quan_he_cua_toi_voi_ban.jpg" />
+    <Content Include="Images\moi_quan_he_la_gi.jpg" />
+    <Content Include="Images\muon_kiep_nhan_sinh.jpg" />
+    <Content Include="Images\nha_gia_kim.jpg" />
+    <Content Include="Images\phan_dien.jpg" />
+    <Content Include="Images\shakespeare_kich_noi_tieng.jpg" />
+    <Content Include="Images\toi_thay_hoa_vang_tren_co_xanh.jpg" />
+    <Content Include="Images\tre_con_duong_dai.jpg" />
+    <Content Include="Images\ve_que.jpg" />
+    <None Include="Images\setting.png" />
+    <None Include="Images\action.png" />
+    <Content Include="bin\Debug\CSharpCounterFinalProject.exe" />
+    <Content Include="bin\Debug\CSharpCounterFinalProject.pdb" />
+    <Content Include="bin\Debug\Items\cake1.jpg" />
+    <None Include="bin\Debug\Items\store %281%29.jpg" />
+    <Content Include="Images\bill.png" />
+    <Content Include="Images\Books_icon-icons.com_76879.ico" />
+    <None Include="Images\shopping-bag.png" />
+    <None Include="Images\trolley.png" />
+    <None Include="Images\loop.png" />
+    <None Include="Images\floppy-disk.png" />
+    <None Include="Images\payment-method.png" />
+    <None Include="Images\discount.png" />
+    <None Include="Images\Items\cake1.jpg" />
+    <None Include="Images\Items\classic.jpg" />
+    <None Include="Images\Items\store %281%29.jpg" />
+    <None Include="Images\internet.png" />
+    <None Include="Images\chup-anh-the-tha-toc-3007.jpg" />
+    <Content Include="Images\nhung_con_chim_gian_du.jpg" />
+    <Content Include="Images\plus.png" />
+    <None Include="Images\rating.png" />
+    <Content Include="Images\refresh.png" />
+    <None Include="Images\remove.png" />
+    <None Include="Images\remove %281%29.png" />
+    <None Include="Images\research-center.png" />
+    <Content Include="Images\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

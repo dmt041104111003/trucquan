@@ -1,0 +1,200 @@
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe.config
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.pdb
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\bin\Debug\Controllers.dll
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\bin\Debug\Models.dll
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\bin\Debug\Controllers.pdb
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\bin\Debug\Models.pdb
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\Views.csproj.AssemblyReference.cache
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Properties.Resources.resources
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\Views.csproj.GenerateResource.cache
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\Views.csproj.CoreCompileInputs.cache
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\Views.csproj.CopyComplete
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.exe
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.pdb
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.HomeFrm.resources
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditCustomerFrm.resources
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditItemFrm.resources
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditDiscountFrm.resources
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditBillFrm.resources
+D:\c#\winform\CSharpCounterFinalProject\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.PaymentFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe.config
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.pdb
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.AssemblyReference.cache
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditBillFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditCustomerFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditDiscountFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditItemFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.HomeFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.PaymentFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Properties.Resources.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.GenerateResource.cache
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.CoreCompileInputs.cache
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.exe
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.pdb
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartTable.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartPie.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignIn.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignUp.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe.config
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.pdb
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.AssemblyReference.cache
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditBillFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditCustomerFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditDiscountFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditItemFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartPie.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartTable.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.HomeFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.PaymentFrm.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Properties.Resources.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignIn.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignUp.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.GenerateResource.cache
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.CoreCompileInputs.cache
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.exe
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.pdb
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.HomeCustomerView.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.CustomerInformationView.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.CartCus.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.DetailItemCus.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\Interop.WMPLib.dll
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\AxInterop.WMPLib.dll
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Interop.WMPLib.dll
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\AxInterop.WMPLib.dll
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.ResolveComReference.cache
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.ListItemCus.resources
+D:\c#\c#_class\Thuc_hanh_winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.ReceiptCusCus.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe.config
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.pdb
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.AssemblyReference.cache
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.SuggestedBindingRedirects.cache
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.ResolveComReference.cache
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditBillFrm.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditCustomerFrm.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditDiscountFrm.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditItemFrm.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartPie.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartTable.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.HomeFrm.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.PaymentFrm.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Properties.Resources.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignIn.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignUp.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.CartCus.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.CustomerInformationView.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.DetailItemCus.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.HomeCustomerView.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.ListItemCus.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.ReceiptCusCus.resources
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.GenerateResource.cache
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.exe
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.pdb
+C:\Users\haikn\Desktop\New folder (2)\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.EditNumberItems.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe.config
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.pdb
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\Interop.WMPLib.dll
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\AxInterop.WMPLib.dll
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.AssemblyReference.cache
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Interop.WMPLib.dll
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\AxInterop.WMPLib.dll
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.ResolveComReference.cache
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditBillFrm.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditCustomerFrm.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditDiscountFrm.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditItemFrm.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartPie.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartTable.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.HomeFrm.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.PaymentFrm.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Properties.Resources.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignIn.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignUp.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.CartCus.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.CustomerInformationView.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.DetailItemCus.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.EditNumberItems.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.HomeCustomerView.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.ListItemCus.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.ReceiptCusCus.resources
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.GenerateResource.cache
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.CoreCompileInputs.cache
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.exe
+D:\c#\winform\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditBillFrm.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditCustomerFrm.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditDiscountFrm.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditItemFrm.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartPie.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartTable.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.HomeFrm.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.PaymentFrm.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Properties.Resources.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignIn.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignUp.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.exe
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe.config
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewNguoiMua.HomeView.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewNguoiMua.ChiTietSanPhamView.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewNguoiMua.GioHangView.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.CartCus.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.CustomerInformationView.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.DetailItemCus.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.EditNumberItems.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.HomeCustomerView.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.ListItemCus.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTL_LTTQ\BTL_CSharp\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.ReceiptCusCus.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe.config
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.exe
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\bin\Debug\CSharpCounterFinalProject.pdb
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\bin\Debug\Interop.WMPLib.dll
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\bin\Debug\AxInterop.WMPLib.dll
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\Views.csproj.AssemblyReference.cache
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\Interop.WMPLib.dll
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\AxInterop.WMPLib.dll
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\Views.csproj.ResolveComReference.cache
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditBillFrm.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditCustomerFrm.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditDiscountFrm.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.AddEditItemFrm.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartPie.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ChartTable.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.HomeFrm.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.PaymentFrm.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Properties.Resources.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignIn.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.Sign.SignUp.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.CartCus.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.CustomerInformationView.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.DetailItemCus.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.EditNumberItems.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.HomeCustomerView.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.ListItemCus.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewCustomer.ReceiptCusCus.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewNguoiMua.ChiTietSanPhamView.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewNguoiMua.GioHangView.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.ViewNguoiMua.HomeView.resources
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\Views.csproj.GenerateResource.cache
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\Views.csproj.CoreCompileInputs.cache
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.exe
+D:\BTL môn Trực quan\BTL_LTTQ\CSharpCounterFinalProject\obj\Debug\CSharpCounterFinalProject.pdb

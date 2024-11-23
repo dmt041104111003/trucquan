@@ -1,0 +1,12 @@
+D:\c#\winform\CSharpCounterFinalProject\Models\bin\Debug\Models.dll
+D:\c#\winform\CSharpCounterFinalProject\Models\bin\Debug\Models.pdb
+D:\c#\winform\CSharpCounterFinalProject\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\c#\winform\CSharpCounterFinalProject\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\c#\winform\CSharpCounterFinalProject\Models\obj\Debug\Models.dll
+D:\c#\winform\CSharpCounterFinalProject\Models\obj\Debug\Models.pdb
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\Models\bin\Debug\Models.dll
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\Models\bin\Debug\Models.pdb
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\Models\obj\Debug\Models.dll
+D:\c#\c#_class\Thuc_hanh_winform\BTLWinform\BTL_CSharp\Models\obj\Debug\Models.pdb
